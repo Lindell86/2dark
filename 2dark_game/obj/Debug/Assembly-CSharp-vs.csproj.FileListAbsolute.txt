@@ -1,0 +1,11 @@
+D:\Projekt\Github storage\2dark\2dark_game\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\Projekt\Github storage\2dark\2dark_game\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Projekt\Github storage\2dark\2dark_game\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Projekt\Github storage\2dark\2dark_game\Temp\bin\Debug\UnityEditor.dll
+D:\Projekt\Github storage\2dark\2dark_game\Temp\bin\Debug\UnityEngine.dll
+D:\Projekt\Github storage\2dark\2dark_game\Temp\bin\Debug\Mono.Cecil.dll
+D:\Projekt\Github storage\2dark\2dark_game\Temp\bin\Debug\nunit.framework.dll
+D:\Projekt\Github storage\2dark\2dark_game\Temp\bin\Debug\Unity.DataContract.dll
+D:\Projekt\Github storage\2dark\2dark_game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Projekt\Github storage\2dark\2dark_game\obj\Debug\Assembly-CSharp.dll
+D:\Projekt\Github storage\2dark\2dark_game\obj\Debug\Assembly-CSharp.pdb
